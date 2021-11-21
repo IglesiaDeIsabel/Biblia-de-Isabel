@@ -1,6 +1,6 @@
 # Biblia-de-Isabel
 
-Traductor: Steven Fabian Poma Rosario
+Traductor: Steven
 
 Afiliación religiosa:	Iglesia católica
 
